@@ -4,7 +4,7 @@
 
 BankMate is a full-stack application that combines a Python-based backend with a Next.js frontend to deliver a seamless experience for analyzing your personal banking data.  The application is hosted on Azure through Azure Function Apps (backend) and Azure Web Apps (frontend).  The LLM service utilized in Azure OpenAI.
 
-The purpose of this app is to demonstrate the ability for banking institutions to provide their customers with the ability to engage in a natural language conversation on their banking data.  Below is an example output from the LLM on a banking transactions that includes:
+The purpose of this app is to demonstrate the ability for banking institutions to provide their customers with the ability to engage in a natural language conversation on their banking data.  Below is an example output from the LLM on banking transactions that includes:
 
    1. Detailed Analysis of Your Spending Habit
    2. Spending Trends
